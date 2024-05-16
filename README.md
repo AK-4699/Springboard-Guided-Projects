@@ -12,7 +12,7 @@
 <h3>Airbnb Case Study</h3>
 <ul>
 <li><strong>Language:</strong> Python</li> 
-<li><strong>Tools:</strong> Pandas,Matplotlib, Seaborn</li>
+<li><strong>Tools:</strong> Pandas, Matplotlib, Seaborn</li>
 <li><strong>Description:</strong> In this project, I explored a dataset from Airbnb using Python. It involved data exploration, visualization, and analysis using libraries like Matplotlib and Seaborn. Through this case study, I honed my skills in uncovering trends and patterns from data.</li>
 </ul>
 
