@@ -22,6 +22,7 @@
 <li><strong>Description:</strong> The AEMR case study was completed entirely with SQL queries. It provided me with hands-on experience in database querying and management. Through this project, I learned how to extract meaningful insights from structured data using SQL.</li>
 </ul>
 
-<h3>Get in Touch</h3>
-<p>I'm always eager to collaborate on exciting projects or discuss anything related to data science and analysis. Feel free to reach out to me via LinkedIn.</p>
+<h2>Get in Touch</h2>
+<p>I'm always eager to collaborate on exciting projects or discuss anything related to data science and analysis. Feel free to connect with me on <a href="[https://www.linkedin.com/in/alextkramer/]" target="_blank">LinkedIn</a>.</p>
+
 <p>Let's connect and explore the fascinating world of data together!</p>
