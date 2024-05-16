@@ -23,6 +23,6 @@
 </ul>
 
 <h2>Get in Touch</h2>
-<p>I'm always eager to collaborate on exciting projects or discuss anything related to data science and analysis. Feel free to connect with me on <a href="[https://www.linkedin.com/in/alextkramer/]" target="_blank">LinkedIn</a>.</p>
+<p>I'm always eager to collaborate on exciting projects or discuss anything related to data science and analysis. Feel free to connect with me on <a href="https://www.linkedin.com/in/alextkramer/" target="_blank">LinkedIn</a>.</p>
 
 <p>Let's connect and explore the fascinating world of data together!</p>
